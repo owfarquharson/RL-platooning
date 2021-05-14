@@ -1,5 +1,5 @@
 # RL-platooning
-This repository contains all the code used as part of my 4YP entitled 'Learning Platooning Controllers for Connected Vehicles'
+This repository contains a summary of the code used as part of my 4YP entitled 'Learning Platooning Controllers for Connected Vehicles'
 
 In the repository you will find the following files:
 
